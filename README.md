@@ -28,4 +28,4 @@ Clone the repository to get a copy of the project up and running on your local m
 Make sure that the packages on your machine are compatible with the packages mentioned in [requirements.txt](requirements.txt).
 
 ##  Authors <a name = "authors"></a>
-- Abhijeet Krishna - [krishna@mpi-cbg.de](abhijeet095@gmail.com)
+- Abhijeet Krishna - [abhijeet095@gmail.com](abhijeet095@gmail.com)
