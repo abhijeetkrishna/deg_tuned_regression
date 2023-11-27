@@ -22,10 +22,10 @@ Often you might need to fit a polynomial for different features. A degree of pol
 ## Getting Started <a name = "getting_started"></a>
 
 Clone the repository to get a copy of the project up and running on your local machine.
-`git clone git@git.mpi-cbg.de:krishna/wdeversion_theory.git`
+`git clone git@github.com:abhijeetkrishna/deg_tuned_regression.git`
 
 ## Prerequisites
 Make sure that the packages on your machine are compatible with the packages mentioned in [requirements.txt](requirements.txt).
 
 ##  Authors <a name = "authors"></a>
-- Abhijeet Krishna - [krishna@mpi-cbg.de](krishna@mpi-cbg.de)
+- Abhijeet Krishna - [krishna@mpi-cbg.de](abhijeet095@gmail.com)
